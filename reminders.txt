@@ -1,0 +1,22 @@
+
+eat at
+open google at 8:30
+close google at 8:12 p.m.
+
+call daddy 10 11:00 p.m.
+call mummy at 11|None
+call daddy at 11 and 11:10 p.m. tuesday 13 may|None
+eat  p.m.|11:17
+drink water|None
+|None
+eat|None
+drink water  p.m.|11:21
+drink water|None
+drink water  p.m.|23:24
+drink water at 11|None
+drink water  p.m.|11:40
+drink water  p.m.|11:40
+take water|None
+drink water|11:45
+drink water at 11:57 p.m.|None
+drink water|08:17AM
